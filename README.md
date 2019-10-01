@@ -1,1 +1,2 @@
 # RafaelBrito-Trabalho-3
+O programa em questão (feito em uma linha de código) mostra quais dos leds do display de 7 segmentos devem ficar acesos (1) e apagados (0) para os números de 0 a 9. Além disso se printa na tela esses resultados para conferência visual.
